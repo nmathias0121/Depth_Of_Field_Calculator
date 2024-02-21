@@ -11,7 +11,8 @@ Source Code includes:<br />
 - TextUI Package contains following classes : TextUI
 
 ## Install & Run Project
-**[Install IntelliJ Community Edition](https://www.jetbrains.com/idea/download/?section=windows)**
+**[Install IntelliJ Community Edition](https://www.jetbrains.com/idea/download/?section=windows)**<br />
+**[JUnit User Guide](https://junit.org/junit5/docs/current/user-guide/)**
 
 Before running Main class or tests in this project, please download following library from the Maven Repository :<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;org.junit.jupiter:junit-jupiter:5.8.1
