@@ -1,0 +1,4 @@
+# Submitted Git tag can be retrieved with the command below.
+git clone https://csil-git1.cs.surrey.sfu.ca/nmathias/cmpt276a1.git nmathias && cd nmathias && git checkout tags/submit
+# url:https://csil-git1.cs.surrey.sfu.ca/nmathias/cmpt276a1.git
+# tag:submit
